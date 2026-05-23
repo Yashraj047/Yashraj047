@@ -111,7 +111,7 @@ Building the future with code and expressing life through music 🎵
 
 <p align="center">
 
-<a href="https://linkedin.com/in/yashraj-srivastava">
+<a href="https://linkedin.com/in/yashraj-srivastava-0523b8370?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
