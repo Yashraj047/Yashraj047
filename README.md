@@ -1,30 +1,126 @@
-<h1 align="center">Hi guys 👋, I'm Yashraj Srivastava</h1>
-<h3 align="center">Building the future with code and expressing life through music</h3>
+<h1 align="center">Hi 👋, I'm Yashraj Srivastava</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj047&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj047" /> </p>
+<h3 align="center">
+Building the future with code and expressing life through music 🎵
+</h3>
 
-- 🌱 I’m currently learning **Python, Data Structures & Algorithms (DSA), Backend Development with Node.js & Express.js, MongoDB, and AWS Cloud Computing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Yashraj047](https://github.com/Yashraj047)
-
-- 💬 Ask me about **Backend Development, AI, Linux, Music Production and Singing**
-
-- 📫 How to reach me **yashraj04769@gmail.com**
-
-- ⚡ Fun fact **I’m training my brain with DSA and my ears with music theory...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yashraj-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashraj-srivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/yashrajvocals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashrajvocals" height="30" width="40" /></a>
-<a href="https://discord.gg/yashraj047." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yashraj047." height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI)+Student;Backend+Developer+in+Progress;Learning+Python+%26+Data+Structures;Exploring+AWS+Cloud+Computing;Singer+%7C+Music+Producer+%7C+Piano+Learner" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashraj047&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashraj047&show_icons=true&locale=en&layout=compact" alt="yashraj047" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashraj047&show_icons=true&locale=en" alt="yashraj047" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj047&" alt="yashraj047" /></p>
+🎓 B.Tech CSE (Artificial Intelligence) Student
+
+💻 Currently focused on Backend Development using Node.js, Express.js and MongoDB
+
+🐍 Learning Python and Data Structures & Algorithms to strengthen problem-solving skills
+
+☁️ Exploring AWS Cloud Computing and modern development practices
+
+🤖 Interested in Artificial Intelligence and Machine Learning
+
+🎵 Passionate Singer, Music Producer and Piano Learner
+
+🚀 Always curious about building useful projects and learning new technologies
+
+---
+
+## 🌱 Currently Learning
+
+- Python
+- Data Structures & Algorithms (DSA)
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- AWS Cloud Computing
+
+---
+
+## 🎯 Current Goals
+
+- Build real-world Backend Projects
+- Improve Problem Solving & DSA Skills
+- Learn Cloud Computing with AWS
+- Explore AI & Machine Learning
+- Contribute to Open Source Projects
+- Grow as both a Developer and Musician
+
+---
+
+## 💬 Ask Me About
+
+- Backend Development
+- Python
+- Linux
+- Artificial Intelligence
+- Music Production
+- Singing
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,mongodb,git,github,linux,vscode,postman,aws,html,css,tailwind" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/yashraj-srivastava">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/yashrajvocals">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:yashraj04769@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashraj047&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj047&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Yashraj047&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Yashraj047&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love turning ideas into software and emotions into music.
+
+🎵 While improving my DSA skills, I'm also training my ears with music theory and working toward becoming a better musician every day.
+
+---
+
+<p align="center">
+<i>"Code with logic. Create with passion."</i>
+</p>
